@@ -85,4 +85,7 @@ rsconnect/
 # R package: bookdown caching files
 /*_files/
 
+# File exceeding size limit 
+Cosmic_MutantCensus_v100_GRCh37.tsv
+
 # End of https://www.toptal.com/developers/gitignore/api/macos,r
